@@ -21,7 +21,6 @@ new Vue({
         if (activeSessionId) {
             this.formLoadValuesBySession(activeSessionId);
         }
-        
     },
     methods: {
         /**
